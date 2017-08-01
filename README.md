@@ -8,3 +8,4 @@ add a new line!
 two!
 dev!
 master!
+master2!
