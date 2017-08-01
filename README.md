@@ -7,3 +7,4 @@ this is very good!
 add a new line!
 two!
 dev!
+master!
