@@ -6,3 +6,6 @@ Creating a new branch is quick and simple.
 this is very good!
 add one new line!
 add!
+add a new line!
+two!
+dev!
